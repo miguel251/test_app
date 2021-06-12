@@ -3,7 +3,7 @@ import { longinApi } from '../../api/auth';
 import { AUTH_LOGIN, AUTH_LOGIN_FAILED, AUTH_LOGIN_SUCCESS } from '../type';
 
 function* login(payload){
-    const { username, password } = payload;
+    const { username, password } = payload.data;
 
     try {
         const result = yield longinApi(username, password);

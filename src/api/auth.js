@@ -1,5 +1,5 @@
-import { getApi } from "./base";
+import { postApi } from "./base";
 
 export async function longinApi(username, password){
-    return await getApi('/auth/login', { username, password}); 
+    return await postApi('auth/login', { username, password}); 
 }

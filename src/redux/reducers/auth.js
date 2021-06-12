@@ -17,7 +17,7 @@ export default (state = INITIALSTATE, action) => {
 
         case AUTH_LOGIN_SUCCESS:
             const { user, token } = action.data;
-            return { ...state, loading: false, token, me: user, message:null };
+            return { ...state, loggedin: !!token, loading: false, token, me: user, message:null };
         
         case AUTH_LOGIN_FAILED:
             const { errors } = action;

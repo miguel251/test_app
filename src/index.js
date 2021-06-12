@@ -6,8 +6,13 @@ import reportWebVitals from './reportWebVitals';
 import { PersistGate } from 'redux-persist/integration/react';
 import { Provider } from 'react-redux';
 import initializeStore from './redux/store';
+import { apiStore } from './api/base';
 
 const {store, persistor } = initializeStore();
+
+apiStore(store);
+
+console.log('STORE', store.getState());
 
 
 ReactDOM.render(
