@@ -8,6 +8,9 @@ import PrivateRoute from './component/router/privateRoute';
 
 const MuiTheme = createMuiTheme({
   palette: {
+    background:{
+      default:'#EFF4E4',
+    },
     primary: {
       main: '#0198ff',
     },

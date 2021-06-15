@@ -1,0 +1,494 @@
+[
+    {
+        "userId": "60b1da870982680064b1bf04",
+        "account_from": "60b1dfe98689d2003257948a",
+        "account_to": "60b1dfe78689d20032579489",
+        "to_spend_currency": {
+            "currency": "cop",
+            "is_token": false
+        },
+        "to_buy_currency": {
+            "currency": "bitcoin",
+            "is_token": false
+        },
+        "to_buy_symbol": "BTC",
+        "to_spend_symbol": "USD",
+        "spent": "300000",
+        "bought": "0.0021932",
+        "state": "accepted",
+        "type": "buy",
+        "pair_id": "60654af25096b50032910026",
+        "taged": true,
+        "action_price": "136389731",
+        "price_percent": "0",
+        "country": "international",
+        "referral": false,
+        "need_referral_process": false,
+        "id": "60b1e24be216d30032d30b04",
+        "created_at": "2021-05-29T06:42:19.078Z",
+        "updated_at": "2021-05-29T06:42:19.146Z"
+    },
+    {
+        "userId": "60b1da870982680064b1bf04",
+        "account_from": "60b1dfe98689d2003257948a",
+        "account_to": "60b1dfe78689d20032579489",
+        "to_spend_currency": {
+            "currency": "cop",
+            "is_token": false
+        },
+        "to_buy_currency": {
+            "currency": "bitcoin",
+            "is_token": false
+        },
+        "to_buy_symbol": "BTC",
+        "to_spend_symbol": "USD",
+        "spent": "300000",
+        "bought": "0.00219445",
+        "state": "accepted",
+        "type": "buy",
+        "pair_id": "60654af25096b50032910026",
+        "taged": true,
+        "action_price": "136354376",
+        "price_percent": "0",
+        "country": "international",
+        "referral": false,
+        "need_referral_process": false,
+        "id": "60b1e254e216d30032d30b06",
+        "created_at": "2021-05-29T06:42:28.653Z",
+        "updated_at": "2021-05-29T06:42:28.706Z"
+    },
+    {
+        "userId": "60b1da870982680064b1bf04",
+        "account_from": "60b1dfe98689d2003257948a",
+        "account_to": "60b1dfe78689d20032579489",
+        "to_spend_currency": {
+            "currency": "cop",
+            "is_token": false
+        },
+        "to_buy_currency": {
+            "currency": "bitcoin",
+            "is_token": false
+        },
+        "to_buy_symbol": "BTC",
+        "to_spend_symbol": "USD",
+        "spent": "88000",
+        "state": "rejected",
+        "type": "buy",
+        "pair_id": "60654af25096b50032910026",
+        "taged": true,
+        "action_price": "136357675",
+        "price_percent": "0",
+        "country": "international",
+        "referral": false,
+        "need_referral_process": false,
+        "id": "60b1e263e216d30032d30b08",
+        "created_at": "2021-05-29T06:42:43.162Z",
+        "updated_at": "2021-05-29T06:42:43.205Z"
+    },
+    {
+        "userId": "60b1da870982680064b1bf04",
+        "account_from": "60b1dfe98689d2003257948a",
+        "account_to": "60b1dfe78689d20032579489",
+        "to_spend_currency": {
+            "currency": "cop",
+            "is_token": false
+        },
+        "to_buy_currency": {
+            "currency": "bitcoin",
+            "is_token": false
+        },
+        "to_buy_symbol": "BTC",
+        "to_spend_symbol": "USD",
+        "spent": "252000",
+        "bought": "0.00184276",
+        "state": "accepted",
+        "type": "buy",
+        "pair_id": "60654af25096b50032910026",
+        "taged": true,
+        "action_price": "136413635",
+        "price_percent": "0",
+        "country": "international",
+        "referral": false,
+        "need_referral_process": false,
+        "id": "60b1e270e216d30032d30b0a",
+        "created_at": "2021-05-29T06:42:56.530Z",
+        "updated_at": "2021-05-29T06:42:56.589Z"
+    },
+    {
+        "userId": "60b1da870982680064b1bf04",
+        "account_from": "60b1dfe98689d2003257948a",
+        "account_to": "60b1dfe78689d20032579489",
+        "to_spend_currency": {
+            "currency": "cop",
+            "is_token": false
+        },
+        "to_buy_currency": {
+            "currency": "bitcoin",
+            "is_token": false
+        },
+        "to_buy_symbol": "BTC",
+        "to_spend_symbol": "USD",
+        "spent": "200000",
+        "bought": "0.00146353",
+        "state": "accepted",
+        "type": "buy",
+        "pair_id": "60654af25096b50032910026",
+        "taged": true,
+        "action_price": "136310312",
+        "price_percent": "0",
+        "country": "international",
+        "referral": false,
+        "need_referral_process": false,
+        "id": "60b1e280e216d30032d30b0c",
+        "created_at": "2021-05-29T06:43:12.391Z",
+        "updated_at": "2021-05-29T06:43:12.447Z"
+    },
+    {
+        "userId": "60b1da870982680064b1bf04",
+        "account_from": "60b1dfe98689d2003257948a",
+        "account_to": "60b1dfe78689d20032579489",
+        "to_spend_currency": {
+            "currency": "cop",
+            "is_token": false
+        },
+        "to_buy_currency": {
+            "currency": "bitcoin",
+            "is_token": false
+        },
+        "to_buy_symbol": "BTC",
+        "to_spend_symbol": "USD",
+        "spent": "200000",
+        "bought": "0.00146269",
+        "state": "accepted",
+        "type": "buy",
+        "pair_id": "60654af25096b50032910026",
+        "taged": true,
+        "action_price": "136388620",
+        "price_percent": "0",
+        "country": "international",
+        "referral": false,
+        "need_referral_process": false,
+        "id": "60b1e285e216d30032d30b0e",
+        "created_at": "2021-05-29T06:43:17.932Z",
+        "updated_at": "2021-05-29T06:43:17.988Z"
+    },
+    {
+        "userId": "60b1da870982680064b1bf04",
+        "account_from": "60b1dfe98689d2003257948a",
+        "account_to": "60b1e2948689d200325794d1",
+        "to_spend_currency": {
+            "currency": "cop",
+            "is_token": false
+        },
+        "to_buy_currency": {
+            "currency": "bitcoin_testnet",
+            "is_token": false
+        },
+        "to_buy_symbol": "BTCT",
+        "to_spend_symbol": "USD",
+        "spent": "250000",
+        "bought": "0.00182734",
+        "state": "accepted",
+        "type": "buy",
+        "pair_id": "60654af25096b50032910027",
+        "taged": true,
+        "action_price": "136469818",
+        "price_percent": "0",
+        "country": "international",
+        "referral": false,
+        "need_referral_process": false,
+        "id": "60b1e296e216d30032d30b10",
+        "created_at": "2021-05-29T06:43:34.087Z",
+        "updated_at": "2021-05-29T06:43:34.143Z"
+    },
+    {
+        "userId": "60b1da870982680064b1bf04",
+        "account_from": "60b1dfe98689d2003257948a",
+        "account_to": "60b1e2948689d200325794d1",
+        "to_spend_currency": {
+            "currency": "cop",
+            "is_token": false
+        },
+        "to_buy_currency": {
+            "currency": "bitcoin_testnet",
+            "is_token": false
+        },
+        "to_buy_symbol": "BTCT",
+        "to_spend_symbol": "USD",
+        "spent": "240000",
+        "bought": "0.00175572",
+        "state": "accepted",
+        "type": "buy",
+        "pair_id": "60654af25096b50032910027",
+        "taged": true,
+        "action_price": "136337922",
+        "price_percent": "0",
+        "country": "international",
+        "referral": false,
+        "need_referral_process": false,
+        "id": "60b1e2b6e216d30032d30b12",
+        "created_at": "2021-05-29T06:44:06.759Z",
+        "updated_at": "2021-05-29T06:44:06.815Z"
+    },
+    {
+        "userId": "60b1da870982680064b1bf04",
+        "account_from": "60b1dfe98689d2003257948a",
+        "account_to": "60b1e2948689d200325794d1",
+        "to_spend_currency": {
+            "currency": "cop",
+            "is_token": false
+        },
+        "to_buy_currency": {
+            "currency": "bitcoin_testnet",
+            "is_token": false
+        },
+        "to_buy_symbol": "BTCT",
+        "to_spend_symbol": "USD",
+        "spent": "350000",
+        "bought": "0.00255841",
+        "state": "accepted",
+        "type": "buy",
+        "pair_id": "60654af25096b50032910027",
+        "taged": true,
+        "action_price": "136454031",
+        "price_percent": "0",
+        "country": "international",
+        "referral": false,
+        "need_referral_process": false,
+        "id": "60b1e2fce216d30032d30b14",
+        "created_at": "2021-05-29T06:45:16.780Z",
+        "updated_at": "2021-05-29T06:45:16.832Z"
+    },
+    {
+        "userId": "60b1da870982680064b1bf04",
+        "account_from": "60b1dfe98689d2003257948a",
+        "account_to": "60b1e2948689d200325794d1",
+        "to_spend_currency": {
+            "currency": "cop",
+            "is_token": false
+        },
+        "to_buy_currency": {
+            "currency": "bitcoin_testnet",
+            "is_token": false
+        },
+        "to_buy_symbol": "BTCT",
+        "to_spend_symbol": "USD",
+        "spent": "470000",
+        "bought": "0.00343566",
+        "state": "accepted",
+        "type": "buy",
+        "pair_id": "60654af25096b50032910027",
+        "taged": true,
+        "action_price": "136454031",
+        "price_percent": "0",
+        "country": "international",
+        "referral": false,
+        "need_referral_process": false,
+        "id": "60b1e30ce216d30032d30b16",
+        "created_at": "2021-05-29T06:45:32.459Z",
+        "updated_at": "2021-05-29T06:45:32.512Z"
+    },
+    {
+        "userId": "60b1da870982680064b1bf04",
+        "account_from": "60b1dfe98689d2003257948a",
+        "account_to": "60b1dfe78689d20032579489",
+        "to_spend_currency": {
+            "currency": "cop",
+            "is_token": false
+        },
+        "to_buy_currency": {
+            "currency": "bitcoin",
+            "is_token": false
+        },
+        "to_buy_symbol": "BTC",
+        "to_spend_symbol": "USD",
+        "spent": "400000",
+        "bought": "0.00292293",
+        "state": "accepted",
+        "type": "buy",
+        "pair_id": "60654af25096b50032910026",
+        "taged": true,
+        "action_price": "136502690",
+        "price_percent": "0",
+        "country": "international",
+        "referral": false,
+        "need_referral_process": false,
+        "id": "60b1e31de216d30032d30b18",
+        "created_at": "2021-05-29T06:45:49.371Z",
+        "updated_at": "2021-05-29T06:45:49.428Z"
+    },
+    {
+        "userId": "60b1da870982680064b1bf04",
+        "account_from": "60b1dfe98689d2003257948a",
+        "account_to": "60b1dfe78689d20032579489",
+        "to_spend_currency": {
+            "currency": "cop",
+            "is_token": false
+        },
+        "to_buy_currency": {
+            "currency": "bitcoin",
+            "is_token": false
+        },
+        "to_buy_symbol": "BTC",
+        "to_spend_symbol": "USD",
+        "spent": "150000",
+        "bought": "0.00109583",
+        "state": "accepted",
+        "type": "buy",
+        "pair_id": "60654af25096b50032910026",
+        "taged": true,
+        "action_price": "136493759",
+        "price_percent": "0",
+        "country": "international",
+        "referral": false,
+        "need_referral_process": false,
+        "id": "60b1e32be216d30032d30b1a",
+        "created_at": "2021-05-29T06:46:03.178Z",
+        "updated_at": "2021-05-29T06:46:03.233Z"
+    },
+    {
+        "userId": "60b1da870982680064b1bf04",
+        "account_from": "60b1dfe98689d2003257948a",
+        "account_to": "60b1dfe78689d20032579489",
+        "to_spend_currency": {
+            "currency": "cop",
+            "is_token": false
+        },
+        "to_buy_currency": {
+            "currency": "bitcoin",
+            "is_token": false
+        },
+        "to_buy_symbol": "BTC",
+        "to_spend_symbol": "USD",
+        "spent": "476000",
+        "bought": "0.00347837",
+        "state": "accepted",
+        "type": "buy",
+        "pair_id": "60654af25096b50032910026",
+        "taged": true,
+        "action_price": "136493759",
+        "price_percent": "0",
+        "country": "international",
+        "referral": false,
+        "need_referral_process": false,
+        "id": "60b1e33ae216d30032d30b1c",
+        "created_at": "2021-05-29T06:46:18.811Z",
+        "updated_at": "2021-05-29T06:46:18.871Z"
+    },
+    {
+        "userId": "60b1da870982680064b1bf04",
+        "account_from": "60b1dfe98689d2003257948a",
+        "account_to": "60b1dfe78689d20032579489",
+        "to_spend_currency": {
+            "currency": "cop",
+            "is_token": false
+        },
+        "to_buy_currency": {
+            "currency": "bitcoin",
+            "is_token": false
+        },
+        "to_buy_symbol": "BTC",
+        "to_spend_symbol": "USD",
+        "spent": "1000000",
+        "bought": "0.00731642",
+        "state": "accepted",
+        "type": "buy",
+        "pair_id": "60654af25096b50032910026",
+        "taged": true,
+        "action_price": "136333141",
+        "price_percent": "0",
+        "country": "international",
+        "referral": false,
+        "need_referral_process": false,
+        "id": "60b1e34de216d30032d30b1e",
+        "created_at": "2021-05-29T06:46:37.046Z",
+        "updated_at": "2021-05-29T06:46:37.100Z"
+    },
+    {
+        "userId": "60b1da870982680064b1bf04",
+        "account_from": "60b1dfe98689d2003257948a",
+        "account_to": "60b1dfe78689d20032579489",
+        "to_spend_currency": {
+            "currency": "cop",
+            "is_token": false
+        },
+        "to_buy_currency": {
+            "currency": "bitcoin",
+            "is_token": false
+        },
+        "to_buy_symbol": "BTC",
+        "to_spend_symbol": "USD",
+        "spent": "1000000",
+        "bought": "0.0073162",
+        "state": "accepted",
+        "type": "buy",
+        "pair_id": "60654af25096b50032910026",
+        "taged": true,
+        "action_price": "136337069",
+        "price_percent": "0",
+        "country": "international",
+        "referral": false,
+        "need_referral_process": false,
+        "id": "60b1e35ae216d30032d30b20",
+        "created_at": "2021-05-29T06:46:50.921Z",
+        "updated_at": "2021-05-29T06:46:50.981Z"
+    },
+    {
+        "userId": "60b1da870982680064b1bf04",
+        "account_from": "60b1dfe78689d20032579489",
+        "account_to": "60b1dfe98689d2003257948a",
+        "to_spend_currency": {
+            "currency": "bitcoin",
+            "is_token": false
+        },
+        "to_buy_currency": {
+            "currency": "cop",
+            "is_token": false
+        },
+        "to_buy_symbol": "COP",
+        "to_spend_symbol": "BTC",
+        "spent": "0.03128638",
+        "bought": "4227100",
+        "state": "accepted",
+        "type": "sell",
+        "pair_id": "60654af25096b50032910026",
+        "taged": false,
+        "action_price": "135448704",
+        "price_percent": "0",
+        "country": "international",
+        "referral": false,
+        "need_referral_process": false,
+        "id": "60b1e607e216d30032d30b22",
+        "created_at": "2021-05-29T06:58:15.427Z",
+        "updated_at": "2021-05-29T06:58:15.481Z"
+    },
+    {
+        "userId": "60b1da870982680064b1bf04",
+        "account_from": "60b1e2948689d200325794d1",
+        "account_to": "60b1dfe98689d2003257948a",
+        "to_spend_currency": {
+            "currency": "bitcoin_testnet",
+            "is_token": false
+        },
+        "to_buy_currency": {
+            "currency": "cop",
+            "is_token": false
+        },
+        "to_buy_symbol": "COP",
+        "to_spend_symbol": "BTCT",
+        "spent": "0.00957713",
+        "bought": "1293993",
+        "state": "accepted",
+        "type": "sell",
+        "pair_id": "60654af25096b50032910027",
+        "taged": false,
+        "action_price": "135453374",
+        "price_percent": "0",
+        "country": "international",
+        "referral": false,
+        "need_referral_process": false,
+        "id": "60b1e621e216d30032d30b24",
+        "created_at": "2021-05-29T06:58:41.667Z",
+        "updated_at": "2021-05-29T06:58:41.717Z"
+    }
+]

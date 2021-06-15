@@ -6,10 +6,10 @@ import { useHistory } from 'react-router';
 import useAuth from '../../hooks/useAuth';
 import { AUTH_LOGIN } from '../../redux/type';
 import useStyles from './style';
-
+import { getDeposits, getSwap, getWithdraw, } from '../../redux/actions';
 
 const Login = () => {
-    const initial = { type:'', value:null, isValid: false, userMessageError:'Username is required', passMessageError: 'Password is required' }; 
+    const initial = { type:'', value:'', isValid: false, userMessageError:'Username is required', passMessageError: 'Password is required' }; 
     const classes = useStyles();
     const [lock, setLock] = useState(false);
     const [checkValidation, setCheckValidation] = useState(false);
@@ -20,9 +20,13 @@ const Login = () => {
     const auth = useAuth();
 
 
+
     useEffect(()=>{
         if(auth && auth.loggedin){
             history.replace('/home');
+            dispatch(getDeposits());
+            dispatch(getSwap());
+            dispatch(getWithdraw());
         }
     }, [auth])
 
@@ -35,7 +39,7 @@ const Login = () => {
                     setUsername((prev) => ({ ...prev, value, type:'username', isValid: false}));
                     return;
                 }
-                setUsername((prev) => ({ ...prev, type: 'username', value:'', isValid: true }));
+                setUsername((prev) => ({ ...prev, type: 'username', value, isValid: true }));
                 return;
             case 'password':
                 if(!value || value.length === 0){

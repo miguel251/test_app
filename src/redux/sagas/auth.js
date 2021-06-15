@@ -17,7 +17,7 @@ function* login(payload){
             if(result && result.errors){
                 yield put({ type: AUTH_LOGIN_FAILED, errors: result.errors });
             } else {
-                yield put({ type: AUTH_LOGIN_FAILED, errors:[] });
+                yield put({ type: AUTH_LOGIN_FAILED, errors:[] });  
             }
         }
     } catch (error) {
